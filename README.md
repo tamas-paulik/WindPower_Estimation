@@ -1,2 +1,2 @@
 # WindPower_Estimation
-Deep Learning Project of tmie series estimation
+Estimation of wind power using deep learning model based on weather forecast
